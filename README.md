@@ -1,0 +1,1 @@
+# LT1-Solving_Problem_HarshadNumber
