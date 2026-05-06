@@ -8,8 +8,7 @@ public class HarshadNumber {
         while(temp > 0) {
             sum += temp % 10;
             temp /= 10;
-        }
-
+            }
         if(n % sum == 0)
             System.out.println("Harshad Number");
         else
